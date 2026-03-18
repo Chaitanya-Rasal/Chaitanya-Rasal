@@ -106,20 +106,20 @@ public class Chaitanya extends Developer implements ProblemSolver {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=c4b5fd" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chaitanya-Rasal&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaitanya-Rasal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
