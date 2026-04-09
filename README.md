@@ -83,7 +83,7 @@
 
 ## 📊 GitHub Stats
 
-<div align=\"center\">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2)
 
