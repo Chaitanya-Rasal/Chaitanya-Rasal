@@ -64,10 +64,15 @@
 
 ## 📂 Featured Projects
 
-<div align=\"center\">
+<div align="center">
 
-[![EARS](https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=react&hide_border=true)](https://github.com/Chaitanya-Rasal/EARS)
-[![Policy-Mind](https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=react&hide_border=true)](https://github.com/Chaitanya-Rasal/Policy-Mind)
+<a href="https://github.com/Chaitanya-Rasal/EARS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=react&hide_border=true&cache_seconds=1800" />
+</a>
+
+<a href="https://github.com/Chaitanya-Rasal/Policy-Mind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=react&hide_border=true&cache_seconds=1800" />
+</a>
 
 </div>
 
@@ -80,20 +85,19 @@
 | [**Portfolio**](https://github.com/Chaitanya-Rasal/Portfolio) | Personal developer portfolio website | JavaScript, HTML5, CSS3 |
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2)
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&cache_seconds=1800" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Rasal&theme=react&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea)
+<img src="https://streak-stats.demolab.com?user=Chaitanya-Rasal&theme=react&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
