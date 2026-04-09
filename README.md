@@ -75,10 +75,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=dark" />
-
 <img src="https://streak-stats.demolab.com?user=Chaitanya-Rasal&theme=dark" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&theme=github-dark" />
