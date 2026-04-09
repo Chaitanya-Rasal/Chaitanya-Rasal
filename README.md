@@ -64,17 +64,13 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Chaitanya-Rasal/EARS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=react&hide_border=true&cache_seconds=1800" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=default" />
 
-<a href="https://github.com/Chaitanya-Rasal/Policy-Mind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=react&hide_border=true&cache_seconds=1800" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=default" />
 
-</div>
+</p>
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -86,16 +82,15 @@
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=default&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=default&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=Chaitanya-Rasal&theme=react&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
+<img src="https://streak-stats.demolab.com?user=Chaitanya-Rasal" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal" />
 
 </p>
 
