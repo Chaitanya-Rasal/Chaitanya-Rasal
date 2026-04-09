@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Chaitanya%20Rasal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20\"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Chaitanya%20Rasal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20\"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Spring+Boot+%7C+React+Developer;MCA+Student+%40+Pune;Open+to+Opportunities;Building+Real-World+Solutions)](https://git.io/typing-svg)
@@ -127,5 +127,5 @@ const chaitanya = {
 
 </div>
 
-<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer\"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer\"/>
 "
