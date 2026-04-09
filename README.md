@@ -61,14 +61,17 @@
 </div>
 
 ---
-
-## 📂 Featured Projects
+## 🚀 Projects
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=default" />
+<a href="https://github.com/Chaitanya-Rasal/EARS">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=default" />
+<a href="https://github.com/Chaitanya-Rasal/Policy-Mind">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind" />
+</a>
 
 </p>
 
@@ -82,15 +85,14 @@
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=default&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaitanya-Rasal&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=default&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact" />
 
 <img src="https://streak-stats.demolab.com?user=Chaitanya-Rasal" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal" />
 
 </p>
 
