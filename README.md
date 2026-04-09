@@ -1,197 +1,163 @@
-<div align="center">
-  
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chaitanya%20Rasal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%26%20React%20%7C%20MCA%20Student&descAlignY=52&descSize=18"/>
+<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Chaitanya%20Rasal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=20\"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Building+scalable+solutions+with+Java+%26+React+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href=\"https://git.io/typing-svg\">
+  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Spring+Boot+%7C+React+Developer;MCA+Student+%40+Pune;Open+to+Opportunities+%F0%9F%9A%80;Building+Real-World+Solutions\" alt=\"Typing SVG\" />
 </a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Chaitanya-Rasal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/chaitanya-rasal/">
-    <img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:chaitanyarasal@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Chaitanya-Rasal?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chaitanya-Rasal?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers"/>
-  </a>
-</p>
+<br/>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Badges -->
+<p>
+  <a href=\"https://www.linkedin.com/in/chaitanya-rasal/\">
+    <img src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\"/>
+  </a>
+  <a href=\"mailto:chaitanyarasal@gmail.com\">
+    <img src=\"https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white\"/>
+  </a>
+  <a href=\"https://github.com/Chaitanya-Rasal\">
+    <img src=\"https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white\"/>
+  </a>
+  <img src=\"https://komarev.com/ghpvc/?username=Chaitanya-Rasal&style=for-the-badge&color=667eea\"/>
+</p>
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+---
 
-```java
-public class ChaitanyaRasal extends Developer {
+## <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png\" alt=\"Technologist\" width=\"30\" /> About Me
 
-    private final String name = "Chaitanya Rasal";
-    private final String role = "Full Stack Java Developer";
-    private final String location = "Pune, Maharashtra, India";
-    private final String degree = "Master of Computer Applications (MCA)";
-    
-    private String[] currentlyWorking = {
-        "EARS - Employment Application Review System",
-        "Policy-Mind - AI Legal Document Q&A"
-    };
-    
-    private String[] skills = {
-        "Java", "Spring Boot", "React", "Python",
-        "REST APIs", "MySQL", "MongoDB", "LangChain"
-    };
-    
-    public String getMotivation() {
-        return "Code. Build. Ship. Repeat.";
-    }
-    
-    public boolean isOpenToOpportunities() {
-        return true; // Always learning, always growing!
-    }
-}
+<img align=\"right\" src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png\" alt=\"Laptop\" width=\"120\" />
+
+- **Location:** Pune, Maharashtra, India
+- **Education:** Master of Computer Applications (MCA)
+- **Focus:** Full Stack Development with Java & React
+- **Status:** Open to Opportunities
+
+```javascript
+const chaitanya = {
+    pronouns: \"He/Him\",
+    code: [\"Java\", \"JavaScript\", \"Python\"],
+    technologies: {
+        backEnd: [\"Spring Boot\", \"Hibernate\", \"REST APIs\", \"Node.js\"],
+        frontEnd: [\"React\", \"HTML5\", \"CSS3\", \"Bootstrap\"],
+        databases: [\"MySQL\", \"MongoDB\"],
+        tools: [\"Git\", \"Postman\", \"VS Code\", \"IntelliJ IDEA\"]
+    },
+    currentFocus: \"Building scalable enterprise applications\",
+    funFact: \"I debug with console.log and I'm proud of it!\"
+};
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bvlcw80371&rid=giphy.gif" width="30"> Tech Stack
+## <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png\" alt=\"Tools\" width=\"30\" /> Tech Stack
 
-<div align="center">
+<div align=\"center\">
 
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI/ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+## <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png\" alt=\"Projects\" width=\"30\" /> Featured Projects
 
-<div align="center">
+<div align=\"center\">
 
-<a href="https://github.com/Chaitanya-Rasal/EARS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href=\"https://github.com/Chaitanya-Rasal/EARS\">
+  <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=EARS&theme=react&hide_border=true&border_radius=10\" />
 </a>
-<a href="https://github.com/Chaitanya-Rasal/Policy-Mind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href=\"https://github.com/Chaitanya-Rasal/Policy-Mind\">
+  <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-Rasal&repo=Policy-Mind&theme=react&hide_border=true&border_radius=10\" />
 </a>
 
 </div>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[EARS](https://github.com/Chaitanya-Rasal/EARS)** | Employment Application Review System - Automates job application review process | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **[Policy-Mind](https://github.com/Chaitanya-Rasal/Policy-Mind)** | AI-powered Legal Document Summarization & Q&A System | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) |
-| **[DailyTaskManager](https://github.com/Chaitanya-Rasal/DailyTaskManager)** | Console-based task manager with authentication | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **[Portfolio](https://github.com/Chaitanya-Rasal/Portfolio)** | Personal developer portfolio website | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png\" alt=\"Briefcase\" width=\"20\" /> EARS - Employment Application Review System
+> Automates the job application review process. Candidates submit applications online, recruiters manage efficiently.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Tech:** React · Node.js · JavaScript
+
+---
+
+### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png\" alt=\"Brain\" width=\"20\" /> Policy-Mind - Legal Document Q&A
+> AI-powered web app that summarizes legal/policy documents and answers natural language questions using NLP.
+
+**Tech:** Python · LangChain · NLP
+
+---
+
+### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png\" alt=\"Clipboard\" width=\"20\" /> Exam Portal
+> Online examination system for conducting tests and assessments.
+
+**Tech:** Java
+
+---
+
+### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png\" alt=\"Calendar\" width=\"20\" /> DailyTaskManager
+> Advanced console-based task manager with user authentication, session management & CRUD operations.
+
+**Tech:** Core Java · JDBC · MySQL
+
+---
+
+### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png\" alt=\"Globe\" width=\"20\" /> Portfolio
+> Personal developer portfolio showcasing projects, skills and contact information.
+
+**Tech:** JavaScript · HTML5 · CSS3
+
+---
+
+## <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png\" alt=\"Chart\" width=\"30\" /> GitHub Stats
+
+<div align=\"center\">
+
+<img src=\"https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=react&hide_border=true&border_radius=10&bg_color=0d1117&title_color=667eea&icon_color=764ba2\" height=\"180\"/>
+<img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=react&hide_border=true&border_radius=10&bg_color=0d1117&title_color=667eea\" height=\"180\"/>
+
+<br/>
+
+<img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Rasal&theme=react&hide_border=true&border_radius=10&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea\"/>
+
+<br/>
+
+<img src=\"https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&border_radius=10\"/>
+
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Rasal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Rasal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117"/>
-</div>
+## <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png\" alt=\"Handshake\" width=\"30\" /> Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Rasal&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117" alt="GitHub Streak"/>
-</div>
+<div align=\"center\">
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-Rasal&bg_color=0d1117&color=6ad3f7&line=6366f1&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/chaitanya-rasal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href=\"https://www.linkedin.com/in/chaitanya-rasal/\">
+  <img src=\"https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\"/>
 </a>
-<a href="https://github.com/Chaitanya-Rasal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:chaitanyarasal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
-<br><br>
+<br/><br/>
 
-### Show some ❤️ by starring some repositories!
+**Open to collaborations and job opportunities!**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png\" alt=\"Wave\" width=\"30\" />
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align=\"center\">
 
-<div align="center">
-  
-**💡 "First, solve the problem. Then, write the code." — John Johnson**
+**\"First, solve the problem. Then, write the code.\"**
+
+<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer\"/>
 
 </div>
